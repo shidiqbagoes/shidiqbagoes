@@ -5,7 +5,7 @@ I'm an Android Engineer with nearly 5 years of experience in developing robust a
 ## 🔧 Tech Stack
 
 - **Languages:** Kotlin
-- **Frameworks and Libraries:** Jetpack, Hilt, Flow
+- **Frameworks and Libraries:** Jetpack, Hilt, Flow, Material Design
 - **Architecture:** MVVM, MVI, CA
 - **Other:** Modularization
 
